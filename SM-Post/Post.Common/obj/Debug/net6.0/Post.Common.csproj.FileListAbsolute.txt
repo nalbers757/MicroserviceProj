@@ -1,0 +1,15 @@
+C:\users\droop\source\repos\MicroserviceProj\SM-Post\Post.Common\bin\Debug\net6.0\Post.Common.deps.json
+C:\users\droop\source\repos\MicroserviceProj\SM-Post\Post.Common\bin\Debug\net6.0\Post.Common.dll
+C:\users\droop\source\repos\MicroserviceProj\SM-Post\Post.Common\bin\Debug\net6.0\Post.Common.pdb
+C:\users\droop\source\repos\MicroserviceProj\SM-Post\Post.Common\bin\Debug\net6.0\CQRS.Core.dll
+C:\users\droop\source\repos\MicroserviceProj\SM-Post\Post.Common\bin\Debug\net6.0\CQRS.Core.pdb
+C:\users\droop\source\repos\MicroserviceProj\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.csproj.AssemblyReference.cache
+C:\users\droop\source\repos\MicroserviceProj\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\users\droop\source\repos\MicroserviceProj\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.AssemblyInfoInputs.cache
+C:\users\droop\source\repos\MicroserviceProj\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.AssemblyInfo.cs
+C:\users\droop\source\repos\MicroserviceProj\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.csproj.CoreCompileInputs.cache
+C:\users\droop\source\repos\MicroserviceProj\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.csproj.CopyComplete
+C:\users\droop\source\repos\MicroserviceProj\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.dll
+C:\users\droop\source\repos\MicroserviceProj\SM-Post\Post.Common\obj\Debug\net6.0\refint\Post.Common.dll
+C:\users\droop\source\repos\MicroserviceProj\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.pdb
+C:\users\droop\source\repos\MicroserviceProj\SM-Post\Post.Common\obj\Debug\net6.0\ref\Post.Common.dll

@@ -1,0 +1,12 @@
+C:\users\droop\source\repos\MicroserviceProj\CQRS-ES\CQRS.Core\bin\Debug\net6.0\CQRS.Core.deps.json
+C:\users\droop\source\repos\MicroserviceProj\CQRS-ES\CQRS.Core\bin\Debug\net6.0\CQRS.Core.dll
+C:\users\droop\source\repos\MicroserviceProj\CQRS-ES\CQRS.Core\bin\Debug\net6.0\CQRS.Core.pdb
+C:\users\droop\source\repos\MicroserviceProj\CQRS-ES\CQRS.Core\obj\Debug\net6.0\CQRS.Core.csproj.AssemblyReference.cache
+C:\users\droop\source\repos\MicroserviceProj\CQRS-ES\CQRS.Core\obj\Debug\net6.0\CQRS.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\users\droop\source\repos\MicroserviceProj\CQRS-ES\CQRS.Core\obj\Debug\net6.0\CQRS.Core.AssemblyInfoInputs.cache
+C:\users\droop\source\repos\MicroserviceProj\CQRS-ES\CQRS.Core\obj\Debug\net6.0\CQRS.Core.AssemblyInfo.cs
+C:\users\droop\source\repos\MicroserviceProj\CQRS-ES\CQRS.Core\obj\Debug\net6.0\CQRS.Core.csproj.CoreCompileInputs.cache
+C:\users\droop\source\repos\MicroserviceProj\CQRS-ES\CQRS.Core\obj\Debug\net6.0\CQRS.Core.dll
+C:\users\droop\source\repos\MicroserviceProj\CQRS-ES\CQRS.Core\obj\Debug\net6.0\refint\CQRS.Core.dll
+C:\users\droop\source\repos\MicroserviceProj\CQRS-ES\CQRS.Core\obj\Debug\net6.0\CQRS.Core.pdb
+C:\users\droop\source\repos\MicroserviceProj\CQRS-ES\CQRS.Core\obj\Debug\net6.0\ref\CQRS.Core.dll
